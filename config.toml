@@ -52,15 +52,15 @@ enableGitInfo = false
   # AUTHOR SETUP
 
   # Your details.
-  name = "FMTea 2019"
-  #role = "Workshop and Tutorial on Teaching Formal Methods"
+  name = "Porto, Portugal"
+  role = "Oct 7, 2019"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Porto, Portugal", url = "" } ]
+  #organizations = [ { name = "Porto, Portugal", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "logo3.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "logo4.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
   email = "test@test.test"

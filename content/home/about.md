@@ -11,12 +11,15 @@ weight = 5
  
 +++
 
-# Formal Methods Teaching Workshop and Tutorial
+# FMTea 2019
+## Formal Methods Teaching Workshop and Tutorial
 **Event affiliated with FM 2019, 3rd World Congress on Formal Methods** </br>
-**Porto, Portugal**</br>
-**Oct 7, 2019**
+<!--**Porto, Portugal**</br>
+--><!--**Oct 7, 2019**-->
 
 **WEBPAGE UNDER CONSTRUCTION!!!**
  
-Add a short blurb
 
+Invited speaker 
+
+Carroll Morgan, University of New South Wales, Australia
