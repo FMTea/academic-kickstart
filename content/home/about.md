@@ -16,10 +16,7 @@ weight = 5
 **Event affiliated with FM 2019, 3rd World Congress on Formal Methods** </br>
 <!--**Porto, Portugal**</br>
 --><!--**Oct 7, 2019**-->
-
-**WEBPAGE UNDER CONSTRUCTION!!!**
  
 
-Invited speaker 
-
+*Invited speaker*</br>
 Carroll Morgan, University of New South Wales, Australia
