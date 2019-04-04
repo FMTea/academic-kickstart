@@ -16,17 +16,18 @@ weight = 10
 +++
 
 
-Teaching Formal Methods is an important aspect of the Formal Methods world, as it invests in the future of Formal Methods (FM). However, in many universities around the world, Formal Methods courses have decreased in number and/or content, have been transformed into (smaller) postgraduate courses, or have been kept only as self-study courses for truly motivated students. Even in universities where the courses have remained intact in the curriculum, the attendance and motivation of the students is sometimes challenging. This happens at the same time as the need for Formal Methods has in fact increased proportionally with the ubiquity of software and microchips in all aspects of our lives. 
+Formal Methods provide software engineering with tools and techniques for rigorously reasoning about the correctness of systems. While in recent years formal methods are increasingly being used in industry, university curricula are not adapting at the same pace. Some existing formal methods classes interest and challenge students, whereas others fail to ignite student motivation. We need to find ways to teach formal methods to the next generation, and doing so will require us to adapt our teaching to 21stcentury students.
 
-We need to find ways to teach Formal Methods to the next generation, but we obviously need to adapt our teaching to the 21st century’s students. We will explore these ideas in FMTea19, a combined workshop and tutorial associated with the 3rd World Congress on Formal Methods, FM2019. 
-In the tutorial part of the event, we will have one invited speaker and several tutorial presentations held by members of the FME’s Teaching Committee. Our goal is to discuss various models of existing FM teaching, together with innovative proposals for remaining relevant as educators of Formal Methods in the 21st century.
+FMTea19 is a combined workshop and tutorial at the 3rd World Congress on Formal Methods, FM2019. Its aim is to share experiences of teaching formal methods that have gone well, or that failed in surprising ways, as well as to develop ways to reboot the presence of formal methods in curricula.
+
+In the tutorial part of the event, we are pleased to have **Carroll Morgan** giving an invited talk on his approach to and experiences with teaching formal methods to undergraduate students. We will also run several tutorial presentations. Our goal is to discuss various models of existing FM teaching, together with innovative proposals for remaining relevant as educators of Formal Methods in the 21st century. **Sir Tony Hoare** will also join us to give a talk on the foundations of teaching computer science for future formal methods scientists.
 
 In the workshop part of the event, we aim to attract papers detailing authors’ experiences with FM Teaching. We would like to get papers discussing successes and failures of various methods, case studies, tools, etc. As self-learning seems to be an important aspect of FM teaching, we appreciate experiences with online teaching. A more detailed list of topics of interest for the FMTea19 workshop is below:
 
--	traditional FM teaching: lectures, exercises, exams
--	online FM teaching/learning: experiences/proposals
--	teaching FM for industry
--	integrating/embedding FM teaching/thinking within other computer science courses
--	student projects on FM, including group projects
+- traditional FM teaching: lectures, exercises, exams
+- online FM teaching/learning: experiences/proposals
+- teaching FM for industry
+- integrating/embedding FM teaching/thinking within other computer science courses
+- student projects on FM, including group projects
 
-Computer science is transforming into a rigorous engineering discipline. Improved teaching techniques will ensure that FM is at the heart of this transformation process. 
+Computer science is transforming into a rigorous engineering discipline. Improved teaching techniques will ensure that FM is at the heart of this transformation process.
