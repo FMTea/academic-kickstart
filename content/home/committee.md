@@ -20,7 +20,6 @@ weight = 30
 -	Graeme Smith, University of Queensland, Australia (co-chair)
 -	Catherine Dubois, ENSIIE, France
 -	Joao F. Ferreira, University of Lisbon, Portugal
--	Bernd Fischer, Stellenbosch University, South Africa
 -	K. Rustan M. Leino, Amazon Web Services, US
 -	Alexandra Mendes, University of Beira Interior, Portugal
 -	Leila Ribeiro, Federal University of Rio Grande do Sul, Brazil
