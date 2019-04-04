@@ -16,7 +16,7 @@ weight = 10
 +++
 
 
-Formal Methods provide software engineering with tools and techniques for rigorously reasoning about the correctness of systems. While in recent years formal methods are increasingly being used in industry, university curricula are not adapting at the same pace. Some existing formal methods classes interest and challenge students, whereas others fail to ignite student motivation. We need to find ways to teach formal methods to the next generation, and doing so will require us to adapt our teaching to 21stcentury students.
+Formal Methods provide software engineering with tools and techniques for rigorously reasoning about the correctness of systems. While in recent years formal methods are increasingly being used in industry, university curricula are not adapting at the same pace. Some existing formal methods classes interest and challenge students, whereas others fail to ignite student motivation. We need to find ways to teach formal methods to the next generation, and doing so will require us to adapt our teaching to 21st century students.
 
 FMTea19 is a combined workshop and tutorial at the 3rd World Congress on Formal Methods, FM2019. Its aim is to share experiences of teaching formal methods that have gone well, or that failed in surprising ways, as well as to develop ways to reboot the presence of formal methods in curricula.
 
