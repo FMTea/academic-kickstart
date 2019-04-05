@@ -20,17 +20,13 @@ FMTea19 is a combined workshop and tutorial at the 3rd World Congress on Formal 
 
 **Tutorial Part of FMTea19**
 
-We are pleased to have **Carroll Morgan** giving an invited talk on his approach to and experiences with teaching formal methods to undergraduate students. **Sir Tony Hoare** will also join us to give a talk on the foundations of teaching computer science for future formal methods scientists. We will run two more tutorial presentations, held by Holger Hermanns and Bas Luttik. Our goal is to discuss various models of existing FM teaching, together with innovative proposals for remaining relevant as educators of Formal Methods in the 21st century. Here is the preliminary tutorial schedule:
+We are very pleased to have [Carroll Morgan](https://www.engineering.unsw.edu.au/computer-science-engineering/professor-carroll-morgan) giving an invited talk on his approach to and experiences with teaching formal methods to undergraduate students. [Sir Tony Hoare](https://www.cs.ox.ac.uk/people/tony.hoare/) will also join us to give a talk on the foundations of teaching computer science for future formal methods scientists. We will run two more tutorial presentations, held by [Holger Hermanns](https://depend.cs.uni-saarland.de/~hermanns/) and [Bas Luttik](https://www.win.tue.nl/~luttik/index.shtml), on experiences with concurrency and online teaching. Our goal is to discuss various models of existing FM teaching, together with innovative proposals for remaining relevant as educators of Formal Methods in the 21st century. 
 
-     9.00 - 10.00 Carroll Morgan (invited talk) 
-    10.00 - 10.45 Tony Hoare (foundations talk)
-    10.45 - 11.15 Break
-    11.15 - 12.00 Holger Hermanns: Teaching concurrency with pseuCo.com (tutorial) 
-    12.00 - 12.45 Bas Luttik: Online Teaching Logic and Set Theory (tutorial)
+
 
 **Workshop Part of FMTea19**
 
-In the workshop part of the event, we aim to attract papers detailing authors’ experiences with FM Teaching. We would like to get papers discussing successes and failures of various methods, case studies, tools, etc. As self-learning seems to be an important aspect of FM teaching, we appreciate experiences with online teaching, including experiences with teaching formal methods via Coursera. A non-exhaustive list of topics of interest for the FMTea19 workshop is below:
+In the workshop part of the event, we aim to attract papers detailing authors’ experiences with FM Teaching. We would like to get papers discussing successes and failures of various methods, case studies, tools, etc. As self-learning seems to be an important aspect of FM teaching, we appreciate experiences with online teaching, including experiences with teaching formal methods via MOOCs. A non-exhaustive list of topics of interest for the FMTea19 workshop is below:
 traditional FM teaching: lectures, exercises, exams
 online FM teaching/learning: experiences/proposals
 teaching FM for industry
