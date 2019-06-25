@@ -26,8 +26,8 @@ https://easychair.org/conferences/?conf=fmtea19
 All accepted papers must be presented at the workshop. Their authors must be prepared to sign a copyright transfer statement. At least one author of each accepted paper must register to the conference by an early date, to be indicated by the FM2019 organizers, and present the paper.
 
 #### IMPORTANT DATES
--	June 1, 2019: Submission of papers
--	July 1, 2019: Notifications to authors
+-	~~June 1, 2019~~ **June 15, 2019**: Submission of papers
+-	~~July 1, 2019~~ **July 25, 2019**: Notifications to authors
 -	August 15, 2019: Proceedings version ready
 -	October 7, 2019: FMTea19 in Porto 
 
