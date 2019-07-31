@@ -302,29 +302,35 @@ enableGitInfo = false
   weight = 1
 
 [[menu.main]]
+  name = "Accepted Papers"
+  url = "#accepted"
+  weight = 2
+
+
+[[menu.main]]
   name = "Objectives and Scope"
   url = "#objectives"
-  weight = 2
+  weight = 3
 
 [[menu.main]]
   name = "Organisation"
   url = "#organisation"
-  weight = 3
+  weight = 4
 
 [[menu.main]]
   name = "Program Committee"
   url = "#committee"
-  weight = 4
+  weight = 5
 
 [[menu.main]]
   name = "Previous Editions"
   url = "#previous"
-  weight = 5
+  weight = 6
 
 [[menu.main]]
   name = "Submission Information"
   url = "#submission"
-  weight = 6
+  weight = 7
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
