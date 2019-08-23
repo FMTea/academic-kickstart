@@ -302,15 +302,16 @@ enableGitInfo = false
   weight = 1
 
 [[menu.main]]
-  name = "Accepted Papers"
-  url = "#accepted"
-  weight = 2
-
-
-[[menu.main]]
   name = "Objectives and Scope"
   url = "#objectives"
+  weight = 2
+
+[[menu.main]]
+  name = "Accepted Papers"
+  url = "#accepted"
   weight = 3
+
+
 
 [[menu.main]]
   name = "Organisation"
