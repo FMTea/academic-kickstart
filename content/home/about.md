@@ -24,4 +24,7 @@ weight = 5
 Carroll Morgan, University of New South Wales, Australia
 
 **Registration**</br>
-Registration is now open. Please see [here](http://formalmethods2019.inesctec.pt/?page_id=2221).
+Registration is now [open](http://formalmethods2019.inesctec.pt/?page_id=2221).
+
+**Program**</br>
+Schedule of talks is available [here](https://www.easychair.org/smart-program/FMTea19/).
