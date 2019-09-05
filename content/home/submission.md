@@ -28,6 +28,6 @@ All accepted papers must be presented at the workshop. Their authors must be pre
 #### IMPORTANT DATES
 -	~~June 1, 2019~~ **June 15, 2019**: Submission of papers
 -	~~July 1, 2019~~ **July 25, 2019**: Notifications to authors
--	August 15, 2019: Proceedings version ready
+-	August 20, 2019: Proceedings version ready
 -	October 7, 2019: FMTea19 in Porto 
 
