@@ -28,3 +28,9 @@ Registration is now [open](http://formalmethods2019.inesctec.pt/?page_id=2221).
 
 **Program**</br>
 Schedule of talks is available [here](https://www.easychair.org/smart-program/FMTea19/).
+
+**Proceedings**</br>
+The FMTea proceedings is available [here](https://link.springer.com/book/10.1007/978-3-030-32441-4).
+
+**Proceedings of other FM workshops**</br>
+Available [here](https://fm19-ws.dcc.fc.up.pt) (password projected).
